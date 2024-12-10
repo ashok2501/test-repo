@@ -1,0 +1,61 @@
+*
+{
+    background-color: yellow;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+.homeone 
+{
+    color: white;
+    display: flex;
+    background-color: blueviolet;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 05px solid red;
+}
+.homeone h1
+{
+    background-color: blueviolet ;
+}
+.homeone ul
+{
+    display: flex;
+   list-style: none;
+
+}
+.homeone ul a
+{
+    color: white;
+    background-color: blueviolet;
+text-decoration: none;
+padding: 10px;
+}
+.frist
+{
+display: flex;
+align-items:  center;
+padding: 20px;
+margin: 20px;
+}
+.frist h1,p
+{
+    color: brown; 
+    text-align: center;
+    margin: 0  30px;
+}
+.frist img
+{
+    border: solid 10px white;
+    padding: 10px;
+    width: 300px;
+}
+hr {
+    color: black;
+    width: 100%;
+height: 5px;
+background-color: black;
+}
